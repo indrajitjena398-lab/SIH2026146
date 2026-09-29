@@ -1,0 +1,82 @@
+[
+  {
+    "feature": "feat_8",
+    "importance": 842.0
+  },
+  {
+    "feature": "feat_0",
+    "importance": 378.0
+  },
+  {
+    "feature": "feat_1",
+    "importance": 296.0
+  },
+  {
+    "feature": "feat_151",
+    "importance": 174.0
+  },
+  {
+    "feature": "feat_81",
+    "importance": 167.0
+  },
+  {
+    "feature": "feat_65",
+    "importance": 137.0
+  },
+  {
+    "feature": "feat_101",
+    "importance": 131.0
+  },
+  {
+    "feature": "tx_fan_out_ratio",
+    "importance": 130.0
+  },
+  {
+    "feature": "feat_85",
+    "importance": 116.0
+  },
+  {
+    "feature": "feat_15",
+    "importance": 111.0
+  },
+  {
+    "feature": "feat_74",
+    "importance": 105.0
+  },
+  {
+    "feature": "feat_80",
+    "importance": 95.0
+  },
+  {
+    "feature": "feat_44",
+    "importance": 95.0
+  },
+  {
+    "feature": "feat_26",
+    "importance": 84.0
+  },
+  {
+    "feature": "feat_32",
+    "importance": 81.0
+  },
+  {
+    "feature": "feat_46",
+    "importance": 76.0
+  },
+  {
+    "feature": "feat_54",
+    "importance": 73.0
+  },
+  {
+    "feature": "feat_24",
+    "importance": 72.0
+  },
+  {
+    "feature": "feat_34",
+    "importance": 69.0
+  },
+  {
+    "feature": "feat_45",
+    "importance": 68.0
+  }
+]

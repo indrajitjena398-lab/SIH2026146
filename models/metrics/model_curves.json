@@ -1,0 +1,1256 @@
+{
+  "logistic_regression": {
+    "roc_curve": [
+      {
+        "fpr": 0.0,
+        "tpr": 0.0
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.04
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 1.0,
+        "tpr": 1.0
+      }
+    ],
+    "pr_curve": [
+      {
+        "recall": 1.0,
+        "precision": 0.1225
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.125
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1276
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1302
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.133
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1359
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1389
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.142
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1453
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1488
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1524
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1562
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1603
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1645
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1689
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1736
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1786
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1838
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1894
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1953
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2016
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2083
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2155
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2232
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2315
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2404
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.25
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2604
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2717
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2841
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2976
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.3125
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.3289
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.3472
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.3676
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.3906
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.4167
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.4464
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.4808
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.5208
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.5682
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.625
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.6944
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.7812
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.8929
+      },
+      {
+        "recall": 0.96,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.8,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.64,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.48,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.32,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.16,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.0,
+        "precision": 1.0
+      }
+    ]
+  },
+  "random_forest": {
+    "roc_curve": [
+      {
+        "fpr": 0.0,
+        "tpr": 0.0
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.04
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.16
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.32
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.36
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.52
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.64
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.8
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.88
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.0112,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.0335,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.0503,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.0838,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.1061,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.1117,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.1229,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.162,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.1732,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.1788,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.2179,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.2514,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.2682,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.324,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.352,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.4134,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.4693,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.5307,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.6145,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.7542,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.8492,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.9553,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 1.0,
+        "tpr": 1.0
+      }
+    ],
+    "pr_curve": [
+      {
+        "recall": 1.0,
+        "precision": 0.1225
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1276
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1412
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1562
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1852
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2083
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2294
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2525
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2841
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.3012
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.3425
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.3571
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.3906
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.4386
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.4464
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.463
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.5319
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.5556
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.5682
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.625
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.6579
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.6944
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.7353
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.7576
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.7812
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.8065
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.8621
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.9259
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.9615
+      },
+      {
+        "recall": 1.0,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.96,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.92,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.88,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.8,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.64,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.6,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.56,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.52,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.44,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.36,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.32,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.24,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.16,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.12,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.08,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.04,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.0,
+        "precision": 1.0
+      }
+    ]
+  },
+  "extra_trees": {
+    "roc_curve": [
+      {
+        "fpr": 0.0,
+        "tpr": 0.0
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.04
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.2
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.32
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.4
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.64
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.72
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.84
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.96
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.0335,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.0615,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.1006,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.1564,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.2626,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.3966,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.4022,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.5363,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.5419,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.7207,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.7263,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 0.9162,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 1.0,
+        "tpr": 1.0
+      }
+    ],
+    "pr_curve": [
+      {
+        "recall": 1.0,
+        "precision": 0.1225
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1323
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1613
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1623
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2049
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2066
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2577
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2604
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.3472
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.4717
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.5814
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.6944
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.8065
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.8621
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.9259
+      },
+      {
+        "recall": 1.0,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.96,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.84,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.8,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.76,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.72,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.64,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.6,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.56,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.52,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.48,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.44,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.4,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.32,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.28,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.24,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.2,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.12,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.04,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.0,
+        "precision": 1.0
+      }
+    ]
+  },
+  "lightgbm": {
+    "roc_curve": [
+      {
+        "fpr": 0.0,
+        "tpr": 0.0
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.04
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 1.0,
+        "tpr": 1.0
+      }
+    ],
+    "pr_curve": [
+      {
+        "recall": 1.0,
+        "precision": 0.1225
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.125
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1276
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1302
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.133
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1359
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1389
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.142
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1453
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1488
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1524
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1562
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1603
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1645
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1689
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1736
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1786
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1838
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1894
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1953
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2016
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2083
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2155
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2232
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2315
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2404
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.25
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2604
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2717
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2841
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2976
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.3125
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.3289
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.3472
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.3676
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.3906
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.4167
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.4464
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.4808
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.5208
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.5682
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.625
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.6944
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.7812
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.8929
+      },
+      {
+        "recall": 0.96,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.8,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.64,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.48,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.32,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.16,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.0,
+        "precision": 1.0
+      }
+    ]
+  },
+  "xgboost": {
+    "roc_curve": [
+      {
+        "fpr": 0.0,
+        "tpr": 0.0
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 0.04
+      },
+      {
+        "fpr": 0.0,
+        "tpr": 1.0
+      },
+      {
+        "fpr": 1.0,
+        "tpr": 1.0
+      }
+    ],
+    "pr_curve": [
+      {
+        "recall": 1.0,
+        "precision": 0.1225
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.125
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1276
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1302
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.133
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1359
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1389
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.142
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1453
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1488
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1524
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1562
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1603
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1645
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1689
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1736
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1786
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1838
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1894
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.1953
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2016
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2083
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2155
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2232
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2315
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2404
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.25
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2604
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2717
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2841
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.2976
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.3125
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.3289
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.3472
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.3676
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.3906
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.4167
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.4464
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.4808
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.5208
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.5682
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.625
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.6944
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.7812
+      },
+      {
+        "recall": 1.0,
+        "precision": 0.8929
+      },
+      {
+        "recall": 0.96,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.8,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.64,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.48,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.32,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.16,
+        "precision": 1.0
+      },
+      {
+        "recall": 0.0,
+        "precision": 1.0
+      }
+    ]
+  }
+}

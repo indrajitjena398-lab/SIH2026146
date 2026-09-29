@@ -1,0 +1,39 @@
+{
+  "best_model": "LightGBM",
+  "dataset": "Synthetic Bitcoin transaction telemetry + blockchain metadata",
+  "total_transactions": 5000,
+  "feature_count": 190,
+  "trained_at": "2026-09-24T05:15:08.339025+00:00",
+  "random_seed": 42,
+  "models_evaluated": [
+    "logistic_regression",
+    "random_forest",
+    "extra_trees",
+    "lightgbm",
+    "xgboost",
+    "isolation_forest",
+    "deep_autoencoder"
+  ],
+  "top_features": [
+    {
+      "feature": "feat_8",
+      "importance": 842.0
+    },
+    {
+      "feature": "feat_0",
+      "importance": 378.0
+    },
+    {
+      "feature": "feat_1",
+      "importance": 296.0
+    },
+    {
+      "feature": "feat_151",
+      "importance": 174.0
+    },
+    {
+      "feature": "feat_81",
+      "importance": 167.0
+    }
+  ]
+}

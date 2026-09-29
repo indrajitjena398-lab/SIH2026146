@@ -1,0 +1,30 @@
+{
+  "dataset_name": "Elliptic Bitcoin Transaction Dataset",
+  "dataset_version": "1.0",
+  "source_type": "pre-existing",
+  "created_at": "2026-09-23T13:31:36.064970+00:00",
+  "files": {
+    "features": {
+      "path": "data/raw/elliptic_txs_features.csv",
+      "size_bytes": 9149150,
+      "sha256": "c22dda0966cd7471c8f115d82db0d1a45eaadd611aecbee6212b7a8db17ab038"
+    },
+    "classes": {
+      "path": "data/raw/elliptic_txs_classes.csv",
+      "size_bytes": 82763,
+      "sha256": "c8e440e58273e6b1e63555a3da99c0d94c156fdc80b74dd5e203add5a0ed4d76"
+    },
+    "edgelist": {
+      "path": "data/raw/elliptic_txs_edgelist.csv",
+      "size_bytes": 169412,
+      "sha256": "5c8ee51eba432d74af348b263297d4a60a76991f8516301b8bb87704a9d734a4"
+    }
+  },
+  "record_counts": {
+    "transactions": 5000,
+    "edges": 8470,
+    "illicit_count": 115,
+    "licit_count": 1093,
+    "unknown_count": 3792
+  }
+}

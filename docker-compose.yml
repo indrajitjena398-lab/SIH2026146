@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  investigation-platform:
+    build: .
+    container_name: bitcoin-sentinel-app
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+    environment:
+      - PORT=8000
+      - HOST=0.0.0.0
+    restart: unless-stopped
